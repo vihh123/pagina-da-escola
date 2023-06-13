@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 3;
     padding: 0;
 }
 body {
@@ -7,21 +7,21 @@ body {
 }
 .cabecalho {
     background-color: #424E61;
-    color: white;
+    color: rgb(247, 247, 247);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 29px 0;
+    padding: 90px 0;
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 45%;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
-    font-size: 16px;
+    margin: 0 25px;
+    font-size: 25px;
 }
 
 .escola-imagem{
@@ -50,7 +50,7 @@ body {
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 120px;
+    width: 200px;
 }
 
 .estudante-icone{
